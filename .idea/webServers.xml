@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="504129bc-734a-4d3a-a79f-9e396a854c25" name="dragoninfotech2.co.uk" url="http://localhost/site5">
+        <fileTransfer host="46.32.240.2" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d0a32c7a-abef-47df-b9ad-3e1d4699376f" name="dragoninfotech5.co.uk" url="http://46.32.240.1">
+        <fileTransfer host="46.32.240.1" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
